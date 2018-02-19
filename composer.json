@@ -1,0 +1,12 @@
+{
+    "name": "vendor/testcomposer",
+    "description": "this is for testing purpose",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vijaikumar",
+            "email": "vijaykumar@vananservices.com"
+        }
+    ],
+    "require": {}
+}
