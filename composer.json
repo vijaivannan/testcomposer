@@ -1,5 +1,5 @@
 {
-    "name": "vendor/testcomposer",
+    "name": "vendortest/testcomposer",
     "description": "this is for testing purpose",
     "type": "library",
     "authors": [
