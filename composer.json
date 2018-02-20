@@ -1,12 +1,19 @@
 {
-    "name": "vjvn/testcomposer",
-    "description": "this is for testing purpose",
-    "type": "library",
+    "name": "test/tcmp",
+    "description": "test project",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "VIT",
     "authors": [
         {
-            "name": "Vijaikumar",
-            "email": "vijaykumar@vananservices.com"
+            "name": "Vijai Kumar",
+            "email": "vijai@mail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "stable"
 }
